@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is the third file 
-=======
-, let me make the changes here also 
->>>>>>> Repo3
 Some more changes from the Repo3 file , lets see what will happen
