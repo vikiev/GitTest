@@ -2,5 +2,4 @@ this is test file
 
 
 https://github.com/vikiev/GitTest.git
-
-lets have the access via public token for this github repo.
+<<<<<<< HEAD
